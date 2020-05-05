@@ -1,0 +1,21 @@
+Arsenal,Chelsea,Liverpool,Man United,Man City
+Arsenal,Chelsea,3-1
+Arsenal,Liverpool,0-1
+Arsenal,Man United,1-1
+Arsenal,Man City,0-4
+Chelsea,Arsenal,2-2
+Chelsea,Liverpool,1-0
+Chelsea,Man United,10-1
+Chelsea,Man City,2-4
+Liverpool,Arsenal,5-3
+Liverpool,Chelsea,0-0
+Liverpool,Man United,1-4
+Liverpool,Man City,5-3
+Man United,Arsenal,3-3
+Man United,Chelsea,2-3
+Man United,Liverpool,0-3
+Man United,Man City,0-0
+Man City,Arsenal,2-1
+Man City,Chelsea,2-4
+Man City,Liverpool,2-3
+Man City,Man United,1-1

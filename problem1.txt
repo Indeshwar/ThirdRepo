@@ -1,0 +1,6 @@
+Adam,adam.smith@abc.com,S,712458
+Eve,evelife.cdm.co,M,123456
+Bob,bob.brel@muf.org,Married,175896
+Alice Adams,alice1245@far.edu,S,554689
+Kim,kim@kim.kim,M,5546
+Bob,cheerup@life.com,M,357894
